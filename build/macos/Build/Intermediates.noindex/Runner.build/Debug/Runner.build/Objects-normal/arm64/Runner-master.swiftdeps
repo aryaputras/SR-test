@@ -1,8 +1,0 @@
-version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
-options: "4ea4ab0442a9e011e5e14a0f5f9622b602a4a3ebb58a78686e658072e5de5bc1"
-build_start_time: [1679741076, 984806060]
-build_end_time: [1679741082, 439525127]
-inputs:
-  "/Users/ultravoucher/Desktop/saham_rakyat/macos/Flutter/GeneratedPluginRegistrant.swift": [1679741066, 690899848]
-  "/Users/ultravoucher/Desktop/saham_rakyat/macos/Runner/AppDelegate.swift": [1648436404, 0]
-  "/Users/ultravoucher/Desktop/saham_rakyat/macos/Runner/MainFlutterWindow.swift": [1648436404, 0]
